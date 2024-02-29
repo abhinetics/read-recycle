@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1 className='maintitle' >All Books 40-60% off 🎉 </h1>
     <div className="main">
-      <Card  name={"PEA 305" } desc="This is is about ect" />
+      <Card  name={"PEA 305" } desc="This is is about analyticals skills" />
       <Card name={"PES 319"} />
       <Card name={"PEL 121"} />
       <Card name={"PEL 131"}/>
